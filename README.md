@@ -1,6 +1,6 @@
 # Fractional
 
-ERC20 token project for fractional ownership of NTFs
+ERC20 token project for fractional ownership of NFTs
 
 <br />
 
